@@ -1,0 +1,1 @@
+This repository contains a list of programs (written in the C++ Programming Language) regarding various operations that are usually performed on the Linked List data structure.
